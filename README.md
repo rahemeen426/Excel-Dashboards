@@ -26,7 +26,7 @@ Vrinda Store sales their products through different channel around the country, 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/rahemeen426/Excel-Dashboards/blob/main/Vrinda.JPG)
 
 ## Online Store Dashboard 
 
